@@ -8,5 +8,9 @@
 	<classpathentry kind="lib" path="C:/Users/kbrun/OneDrive/Documents/LibreriaED/LinkedGraph-v1.0.jar"/>
 	<classpathentry kind="lib" path="C:/Users/kbrun/OneDrive/Documents/LibreriaED/tree-package-v2.2.jar"/>
 	<classpathentry kind="lib" path="C:/Users/kbrun/OneDrive/Documents/LibreriaED/tree-package-v3.0.jar"/>
+	<classpathentry kind="lib" path="JTattoo-1.6.11.jar"/>
+	<classpathentry kind="lib" path="TonicLF.jar"/>
+	<classpathentry kind="lib" path="TinyLaF.jar"/>
+	<classpathentry kind="lib" path="Looks-2.0-rc.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
